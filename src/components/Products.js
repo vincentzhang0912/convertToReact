@@ -3,7 +3,7 @@ const Products = () => {
   return ( 
     <>
       <div className="row text-primary " >
-    <div className="col-4">
+    <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product01.png" className="img-fluid"/>
@@ -14,7 +14,7 @@ const Products = () => {
         </div>
       </div>
     </div>
-    <div className="col-4">
+    <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product01.png" className="img-fluid"/>
@@ -25,7 +25,7 @@ const Products = () => {
         </div>
       </div>
     </div>
-    <div className="col-4">
+    <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product01.png" className="img-fluid"/>
@@ -40,7 +40,7 @@ const Products = () => {
 
   <div className="row my-3" >
     
-  <div className="col-4">
+  <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product02.png" className="img-fluid"/>
@@ -53,7 +53,7 @@ const Products = () => {
         </div>
       </div>
     </div>
-    <div className="col-4">
+    <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product02.png" className="img-fluid"/>
@@ -66,7 +66,7 @@ const Products = () => {
         </div>
       </div>
     </div>
-    <div className="col-4">
+    <div className="col-md-4 shadow-lg mt-2">
       <div className="card">
         <div className="card-body">
           <img src="imgs/product02.png" className="img-fluid"/>
